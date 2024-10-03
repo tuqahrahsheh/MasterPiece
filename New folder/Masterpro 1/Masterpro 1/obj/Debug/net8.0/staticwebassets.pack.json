@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Masterpro\\Masterpro 1\\Masterpro 1\\wwwroot\\uploads\\HADEEL.png",
+      "PackagePath": "staticwebassets\\uploads\\HADEEL.png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Masterpro\\Masterpro 1\\Masterpro 1\\wwwroot\\uploads\\IMG_9455 copy (1).jpg",
+      "PackagePath": "staticwebassets\\uploads\\IMG_9455 copy (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Masterpro\\Masterpro 1\\Masterpro 1\\wwwroot\\uploads\\IMG_9455 copy (2).jpg",
+      "PackagePath": "staticwebassets\\uploads\\IMG_9455 copy (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Masterpro\\Masterpro 1\\Masterpro 1\\wwwroot\\uploads\\anas-removebg-preview_1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\anas-removebg-preview_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Masterpro\\Masterpro 1\\Masterpro 1\\wwwroot\\uploads\\h6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\h6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Masterpro\\Masterpro 1\\Masterpro 1\\wwwroot\\uploads\\image (1).png",
+      "PackagePath": "staticwebassets\\uploads\\image (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Orange\\Desktop\\Masterpro\\Masterpro 1\\Masterpro 1\\wwwroot\\uploads\\imageone.jpg",
+      "PackagePath": "staticwebassets\\uploads\\imageone.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Masterpro 1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Masterpro 1.props",
+      "PackagePath": "build\\Masterpro 1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Masterpro 1.props",
+      "PackagePath": "buildMultiTargeting\\Masterpro 1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Masterpro 1.props",
+      "PackagePath": "buildTransitive\\Masterpro 1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
